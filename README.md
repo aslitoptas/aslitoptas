@@ -11,6 +11,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aslitoptas&show_icons=true&locale=en&layout=compact" alt="aslitoptas" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aslttml&show_icons=true&locale=en" alt="aslitoptas" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aslitoptas&show_icons=true&locale=en" alt="aslitoptas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aslitoptas&" alt="aslitoptas" /></p>
